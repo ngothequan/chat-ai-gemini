@@ -1,11 +1,11 @@
 firt install cmd
-
+<code>
 pip install customtkinter <br>
 pip install google-generativeai <br>
 pip install python-dotenv <br>
 pip install pyperclip <br>
 pip install Pillow <br>
-pip install customtkinter google-generativeai python-dotenv pyperclip Pillow <br>
+pip install customtkinter google-generativeai python-dotenv pyperclip Pillow <br> </code>
 
 CustomTkinter: Thư viện giao diện người dùng tùy chỉnh dựa trên Tkinter. <br>
 pip install customtkinter
